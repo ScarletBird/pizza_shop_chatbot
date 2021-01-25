@@ -1,0 +1,1 @@
+Chatbot using an extended class from NLTK chat, that implements functions as it chats. The idea is for the client to be able to order using the bot, on conclusion a message could be sent so the restaurant would be able to deliver it.

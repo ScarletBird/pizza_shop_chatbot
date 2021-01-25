@@ -1,0 +1,5 @@
+o(i|l(á|a)|pa);Olá, boas vindas à pizzaria Pizza!|Oi! Boas vindas à pizzaria Pizza!
+(.*)fazer(.*)\bpedido\?*;Qual o seu pedido? Favor digitar apenas a quantidade e o sabor.
+(.*)\bpedir\?*;Qual o seu pedido? Favor digitar apenas a quantidade e o sabor.
+(.*)\bencomendar?\?*;Qual o seu pedido? Favor digitar apenas a quantidade e o sabor.
+(.+)\b(retir(ar|e)|remov(a|er))\b(.*);Para retirar algum item, utilize a palavra "retire" seguido da quantidade e do item.
